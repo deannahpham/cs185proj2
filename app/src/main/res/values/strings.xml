@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">deannaScores</string>
+    <string-array name="TEAMS">
+        <item>Arsenal</item>
+        <item>Burnley</item>
+        <item>Chelsea</item>
+        <item>Crystal Palace</item>
+        <item>Everton</item>
+        <item>Hull City</item>
+        <item>Liverpool</item>
+        <item>Leicester City</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Queens Park Rangers</item>
+        <item>Southampton</item>
+        <item>Stoke City</item>
+        <item>Tottenham</item>
+        <item>West Ham United</item>
+    </string-array>
+</resources>
